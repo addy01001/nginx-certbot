@@ -10,7 +10,7 @@ This is useful when you need to set up nginx as a reverse proxy for an
 application.
 
 ## Installation
-1. [Install docker-compose](https://docs.docker.com/compose/install/#install-compose).
+1. [Install docker compose](https://docs.docker.com/compose/install/linux/).
 
 2. Clone this repository: `git clone https://github.com/wmnnd/nginx-certbot.git .`
 
